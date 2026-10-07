@@ -47,3 +47,18 @@ Customer service and operations professional transitioning into information tech
 **Crew Member | approximately 2008–2009**
 
 - Provided front-counter customer service in a fast-paced food-service environment. Operated the POS/register, took customer orders, processed payments, answered menu questions, communicated orders to the preparation team, and supported general store operations during busy periods.
+
+## Technical Projects & Hands-On Experience
+
+### Cross-Platform Obsidian Synchronization
+**Syncthing | Synctrain | Windows | macOS | Linux | iOS | PowerShell**
+
+- Designed and implemented a peer-to-peer synchronization environment allowing an Obsidian knowledge base to remain locally available across Windows, macOS, Linux, and iOS devices. Configured device pairing, Device IDs, shared folders, local storage paths, and bidirectional synchronization.
+
+- Troubleshot Syncthing GUI authentication on Windows using PowerShell and direct configuration-file inspection. Followed a controlled recovery process by stopping the application, backing up its configuration, making the required change, restarting the application, and verifying normal synchronization afterward.
+
+- Implemented iPhone synchronization using Synctrain after identifying differences in iOS file handling, and verified synchronization in both directions between mobile and computer systems.
+
+- Diagnosed synchronization conflicts, compared competing file versions, preserved current data, removed redundant conflict copies, and verified that the resolution propagated across synchronized devices.
+
+- Created a 28-page technical runbook documenting architecture, device configuration, troubleshooting, recovery procedures, conflict handling, health checks, operational procedures, and safety practices.
