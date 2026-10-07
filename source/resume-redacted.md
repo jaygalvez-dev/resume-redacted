@@ -17,3 +17,14 @@ Customer service and operations professional transitioning into information tech
 **Tools & Development:** Git, GitHub, GitHub Pages, HTML, CSS, PowerShell, VS Code, VirtualBox, Obsidian
 
 **Technical Practices:** Hardware/software troubleshooting, OS installation, component replacement, cross-platform configuration, documentation, runbook development
+
+## Professional Experience
+
+### Covenant Aviation Security — San Francisco, CA
+**Transportation Security Officer (TSO) | 2016–2019**
+
+- Performed passenger and baggage screening in a high-volume airport environment using X-ray systems, walk-through/body-scanning equipment, explosive trace detection (ETD), visual inspections, pat-downs, and travel-document verification. Assisted passengers with screening requirements and handled difficult interactions and escalations while maintaining security procedures and professional customer service.
+
+- Selected to serve as a Coach for newly trained TSOs, providing hands-on instruction as they transitioned from formal training to independent checkpoint duties. Demonstrated procedures, observed trainee performance, provided feedback, and communicated trainee progress and readiness to supervisors. Cross-trained on additional responsibilities while pursuing advancement, including procedures for calibrating ETD equipment.
+
+- Conducted randomized security screening of airport personnel in secured areas, working with a partner to inspect belongings, conduct pat-downs, and operate portable ETD equipment according to established procedures.
