@@ -28,3 +28,12 @@ Customer service and operations professional transitioning into information tech
 - Selected to serve as a Coach for newly trained TSOs, providing hands-on instruction as they transitioned from formal training to independent checkpoint duties. Demonstrated procedures, observed trainee performance, provided feedback, and communicated trainee progress and readiness to supervisors. Cross-trained on additional responsibilities while pursuing advancement, including procedures for calibrating ETD equipment.
 
 - Conducted randomized security screening of airport personnel in secured areas, working with a partner to inspect belongings, conduct pat-downs, and operate portable ETD equipment according to established procedures.
+
+### Blockbuster Entertainment — San Bruno / Burlingame / South San Francisco, CA
+**Entertainment Specialist | 2003–2009**
+
+- Progressed from entry-level responsibilities to being entrusted with opening and closing stores and operating assigned shifts without direct management supervision. Managed alarm/security procedures, counted and reconciled registers and the store safe, prepared deposits, and transported deposits for banking.
+
+- Trained new employees on customer service, POS/register operation, store procedures, and daily responsibilities. Assisted customers with rentals, recommendations, account questions, service problems, and other concerns. Received and processed shipments of DVDs, merchandise, and food products and helped maintain organized inventory.
+
+- Promoted membership and rental programs, explained program benefits and terms, and supported store enrollment and sales goals.
