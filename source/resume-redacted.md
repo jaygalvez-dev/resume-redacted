@@ -37,3 +37,13 @@ Customer service and operations professional transitioning into information tech
 - Trained new employees on customer service, POS/register operation, store procedures, and daily responsibilities. Assisted customers with rentals, recommendations, account questions, service problems, and other concerns. Received and processed shipments of DVDs, merchandise, and food products and helped maintain organized inventory.
 
 - Promoted membership and rental programs, explained program benefits and terms, and supported store enrollment and sales goals.
+
+### Bath & Body Works — San Bruno, CA
+**Customer Service Representative (CSR) | approximately 2008–2009**
+
+- Provided customer-facing sales support on the retail floor, identified customer needs, recommended products, and promoted featured and priority merchandise according to store sales strategies. Maintained product knowledge, replenished and organized merchandise, and participated in floor-set changes for promotions, themes, clearance, and changing product priorities.
+
+### Jamba Juice — San Bruno, CA
+**Crew Member | approximately 2008–2009**
+
+- Provided front-counter customer service in a fast-paced food-service environment. Operated the POS/register, took customer orders, processed payments, answered menu questions, communicated orders to the preparation team, and supported general store operations during busy periods.
